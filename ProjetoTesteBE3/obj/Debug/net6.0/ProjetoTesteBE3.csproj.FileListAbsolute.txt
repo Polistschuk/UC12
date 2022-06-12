@@ -1,0 +1,12 @@
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\bin\Debug\net6.0\ProjetoTesteBE3.deps.json
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\bin\Debug\net6.0\ProjetoTesteBE3.dll
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\bin\Debug\net6.0\ref\ProjetoTesteBE3.dll
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\bin\Debug\net6.0\ProjetoTesteBE3.pdb
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.csproj.AssemblyReference.cache
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.AssemblyInfoInputs.cache
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.AssemblyInfo.cs
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.csproj.CoreCompileInputs.cache
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.dll
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ref\ProjetoTesteBE3.dll
+D:\VSvisual\SA12\Teste\ProjetoTesteBE3\ProjetoTesteBE3\obj\Debug\net6.0\ProjetoTesteBE3.pdb
